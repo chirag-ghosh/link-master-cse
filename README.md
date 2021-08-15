@@ -1,17 +1,14 @@
+A go-to place for all academic links of the ongoing semester for the CSE batch ( 2020-2025 ), because why not ?
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/00cba22a-63a5-4855-a260-b6eb48407c96/deploy-status)](https://app.netlify.com/sites/link-master-cse/deploys)
+
+<br/><br/><br/><br/>
+
+Template details :
+
 Editorial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
 
 AJ
 aj@lkn.io | @ajlkn
@@ -20,7 +17,7 @@ aj@lkn.io | @ajlkn
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash (pexels.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
