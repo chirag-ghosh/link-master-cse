@@ -17,7 +17,7 @@ aj@lkn.io | @ajlkn
 Credits:
 
 	Demo Images:
-		Unsplash (pexels.com)
+		Pexels (pexels.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
