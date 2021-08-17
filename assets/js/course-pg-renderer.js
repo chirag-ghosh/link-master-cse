@@ -160,6 +160,7 @@ const changeCourseHandler = (id) => {
 
     var link = document.createElement("a");
     link.setAttribute("href", courses[id].links[i].link);
+    link.setAttribute("target", "_blank");
     link.className = "image";
 
     var img = document.createElement("img");
@@ -182,6 +183,7 @@ const changeCourseHandler = (id) => {
     var li = document.createElement("li");
     var btn = document.createElement("a");
     btn.setAttribute("href", courses[id].links[i].link);
+    btn.setAttribute("target", "_blank");
     btn.className = "button";
     btn.innerHTML = "Go";
     li.appendChild(btn);
