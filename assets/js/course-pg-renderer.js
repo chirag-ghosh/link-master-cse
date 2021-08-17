@@ -5,20 +5,23 @@ const courses = [
     links: [
       {
         name: "Course Website",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The course website provided by faculty.",
         link: "https://cse.iitkgp.ac.in/~pawang/courses/ALGO21.html",
       },
       {
         name: "Reference Books",
-        caption:
-          "Put the books drive link and edit this text with something better.",
+        caption: "Pontu Reference Books Drive link",
         link: "https://drive.google.com/drive/folders/1oiTfJn4MpZKGcCRBMevOi4Ohna4N9tnH?usp=sharing",
       },
       {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/CS21203-ALGORITHMS-I?csf=1&web=1&e=bl8dye",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
+      },
+      {
         name: "Prev. Year Course Site",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The prev. course website provided by faculty.",
         link: "http://cse.iitkgp.ac.in/~pawang/courses/ALGO20.html",
       },
     ],
@@ -29,20 +32,23 @@ const courses = [
     links: [
       {
         name: "Course Website",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The course website provided by faculty.",
         link: "http://cse.iitkgp.ac.in/~pawang/courses/ALGO21.html",
       },
       {
         name: "Reference Books",
-        caption:
-          "Put the books drive link and edit this text with something better.",
+        caption: "Pontu Reference Books Drive link",
         link: "https://drive.google.com/drive/folders/1oiTfJn4MpZKGcCRBMevOi4Ohna4N9tnH?usp=sharing",
       },
       {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/CS29203-ALGORITHMS%20LABORATORY?csf=1&web=1&e=CZPL4P",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
+      },
+      {
         name: "Prev. Year Course Site",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The prev. course website provided by faculty.",
         link: "https://cse.iitkgp.ac.in/~palash/Courses/2021Algorithms1-Lab/algo1-lab-2021.html",
       },
     ],
@@ -53,20 +59,23 @@ const courses = [
     links: [
       {
         name: "Course Website",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The course website provided by faculty.",
         link: "https://cse.iitkgp.ac.in/~abhij/course/theory/DS/Autumn21/",
       },
       {
         name: "Reference Books",
-        caption:
-          "Put the books drive link and edit this text with something better.",
+        caption: "Pontu Reference Books Drive link",
         link: "https://drive.google.com/drive/folders/1RUWqkg-3mYW9GLmqST6OoJR5JfZoMYnr?usp=sharing",
       },
       {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/CS21201-DISCRETE%20STRUCTURES?csf=1&web=1&e=mNrnAN",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
+      },
+      {
         name: "Prev. Year Course Site",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The prev. course website provided by faculty.",
         link: "http://cse.iitkgp.ac.in/~abhij/course/theory/DS/Autumn20/",
       },
     ],
@@ -77,20 +86,23 @@ const courses = [
     links: [
       {
         name: "Course Website",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The course website provided by faculty.",
         link: "https://wiki.metakgp.org/w/MA20104:_Probability_And_Statistics",
       },
       {
         name: "Reference Books",
-        caption:
-          "Put the books drive link and edit this text with something better.",
+        caption: "Pontu Reference Books Drive link",
         link: "https://drive.google.com/drive/folders/1KBzWRCAYrZJoAcNUl8ghsfYpVmH_LFJz?usp=sharing",
       },
       {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/MA20205-PROBABILITY%20AND%20STATISTICS?csf=1&web=1&e=mvFRcZ",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
+      },
+      {
         name: "Prev. Year Course Site",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The prev. course website provided by faculty.",
         link: "http://www.facweb.iitkgp.ac.in/~bibhas/ProbStat.html",
       },
     ],
@@ -101,15 +113,19 @@ const courses = [
     links: [
       {
         name: "Course Website",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The course website provided by faculty.",
         link: "https://wiki.metakgp.org/w/EC21101:_Basic_Electronics",
       },
       {
         name: "Reference Books",
-        caption:
-          "Put the books drive link and edit this text with something better.",
+        caption: "Pontu Reference Books Drive link",
         link: "https://drive.google.com/drive/folders/1nBgnM5i8s9C1iVq1eNGh0lNKI6DqN2k2?usp=sharing",
+      },
+      {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/EC21201-BASIC%20ELECTRONICS?csf=1&web=1&e=hPDUJf",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
       },
     ],
   },
@@ -119,20 +135,23 @@ const courses = [
     links: [
       {
         name: "Course Website",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The course website provided by faculty.",
         link: "https://wiki.metakgp.org/w/EE21101:_Signals_And_Networks",
       },
       {
         name: "Reference Books",
-        caption:
-          "Put the books drive link and edit this text with something better.",
+        caption: "Pontu Reference Books Drive link",
         link: "https://drive.google.com/drive/folders/1MuSyV4Iij6ZtmjrnBseV_WcmMJ0mr9K7?usp=sharing",
       },
       {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/EE21201-SIGNALS%20AND%20SYSTEMS?csf=1&web=1&e=fCSnOg",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
+      },
+      {
         name: "Prev. Year Course Site",
-        caption:
-          "Put the course website link and edit this text with something better.",
+        caption: "The prev. course website provided by faculty.",
         link: "http://www.facweb.iitkgp.ac.in/~avishek/Signals&Networks2020.html",
       },
     ],
@@ -189,6 +208,18 @@ const changeCourseHandler = (id) => {
     li.appendChild(btn);
 
     actionBar.appendChild(li);
+
+    if (courses[id].links[i].contact !== undefined) {
+      var li = document.createElement("li");
+      var btn = document.createElement("a");
+      btn.setAttribute("href", courses[id].links[i].contact);
+      btn.setAttribute("target", "_blank");
+      btn.className = "button";
+      btn.innerHTML = "Contact";
+      li.appendChild(btn);
+
+      actionBar.appendChild(li);
+    }
 
     article.appendChild(actionBar);
 
