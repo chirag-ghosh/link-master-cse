@@ -1,158 +1,163 @@
 const courses = [
   {
-    name: "Algorithms-1",
-    code: "CS21203",
+    name: "FLAT",
+    code: "CS21204",
     links: [
       {
         name: "Course Website",
         caption: "The course website provided by faculty.",
-        link: "https://cse.iitkgp.ac.in/~pawang/courses/ALGO21.html",
+        link: "http://cse.iitkgp.ac.in/~abhij/course/theory/FLAT/Spring22/",
       },
-      {
-        name: "Reference Books",
-        caption: "Pontu Reference Books Drive link",
-        link: "https://drive.google.com/drive/folders/1oiTfJn4MpZKGcCRBMevOi4Ohna4N9tnH?usp=sharing",
-      },
+      // {
+      //   name: "Reference Books",
+      //   caption: "Pontu Reference Books Drive link",
+      //   link: "https://drive.google.com/drive/folders/1oiTfJn4MpZKGcCRBMevOi4Ohna4N9tnH?usp=sharing",
+      // },
       {
         name: "Recorded Lectures and slides",
         caption: "You need access for this, Contact Gopal",
-        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/CS21203-ALGORITHMS-I?csf=1&web=1&e=bl8dye",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM4_CSE/CS21204-FORMAL%20LANGUAGE%20AND%20AUTOMATA%20THEORY?csf=1&web=1&e=9J8rhN",
         contact: "https://api.whatsapp.com/send?phone=+919996635274",
       },
       {
         name: "Prev. Year Course Site",
         caption: "The prev. course website provided by faculty.",
-        link: "http://cse.iitkgp.ac.in/~pawang/courses/ALGO20.html",
+        link: "http://cse.iitkgp.ac.in/~abhij/course/theory/FLAT/Spring21/",
       },
     ],
   },
   {
-    name: "Algorithms Lab",
-    code: "CS29203",
+    name: "Systems Programming Lab",
+    code: "CS29206",
     links: [
       {
         name: "Course Website",
         caption: "The course website provided by faculty.",
-        link: "http://cse.iitkgp.ac.in/~pawang/courses/ALGO21.html",
+        link: "http://cse.iitkgp.ac.in/~abhij/course/lab/SPL/Spring22/",
       },
-      {
-        name: "Reference Books",
-        caption: "Pontu Reference Books Drive link",
-        link: "https://drive.google.com/drive/folders/1oiTfJn4MpZKGcCRBMevOi4Ohna4N9tnH?usp=sharing",
-      },
+      // {
+      //   name: "Reference Books",
+      //   caption: "Pontu Reference Books Drive link",
+      //   link: "https://drive.google.com/drive/folders/1oiTfJn4MpZKGcCRBMevOi4Ohna4N9tnH?usp=sharing",
+      // },
       {
         name: "Recorded Lectures and slides",
         caption: "You need access for this, Contact Gopal",
-        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/CS29203-ALGORITHMS%20LABORATORY?csf=1&web=1&e=CZPL4P",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM4_CSE/CS29206-SYSTEMS%20PROGRAMMING%20LABORATORY?csf=1&web=1&e=MSX6ET",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
+      },
+      // {
+      //   name: "Prev. Year Course Site",
+      //   caption: "The prev. course website provided by faculty.",
+      //   link: "https://cse.iitkgp.ac.in/~palash/Courses/2021Algorithms1-Lab/algo1-lab-2021.html",
+      // },
+    ],
+  },
+  {
+    name: "Software Engg. Theory",
+    code: "CS20202",
+    links: [
+      {
+        name: "Course Website",
+        caption: "The course website provided by faculty.",
+        link: "https://cse.iitkgp.ac.in/~sourangshu/coursefiles/cs20202_2022s.html",
+      },
+      // {
+      //   name: "Reference Books",
+      //   caption: "Pontu Reference Books Drive link",
+      //   link: "https://drive.google.com/drive/folders/1RUWqkg-3mYW9GLmqST6OoJR5JfZoMYnr?usp=sharing",
+      // },
+      {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM4_CSE/CS20202-SOFTWARE%20ENGINEERING?csf=1&web=1&e=lledrs",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
+      },
+      // {
+      //   name: "Prev. Year Course Site",
+      //   caption: "The prev. course website provided by faculty.",
+      //   link: "http://cse.iitkgp.ac.in/~abhij/course/theory/DS/Autumn20/",
+      // },
+    ],
+  },
+  {
+    name: "Software Engg. Lab",
+    code: "CS29202",
+    links: [
+      {
+        name: "Course Website",
+        caption: "The course website provided by faculty.",
+        link: "https://cse.iitkgp.ac.in/~sourangshu/coursefiles/cs20202_2022s.html",
+      },
+      // {
+      //   name: "Reference Books",
+      //   caption: "Pontu Reference Books Drive link",
+      //   link: "https://drive.google.com/drive/folders/1KBzWRCAYrZJoAcNUl8ghsfYpVmH_LFJz?usp=sharing",
+      // },
+      {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM4_CSE/CS29202-SOFTWARE%20ENGINEERING%20LABORATORY?csf=1&web=1&e=8mRYUD",
+        contact: "https://api.whatsapp.com/send?phone=+919996635274",
+      },
+      // {
+      //   name: "Prev. Year Course Site",
+      //   caption: "The prev. course website provided by faculty.",
+      //   link: "http://www.facweb.iitkgp.ac.in/~bibhas/ProbStat.html",
+      // },
+    ],
+  },
+  {
+    name: "SCLD Theory",
+    code: "CS21202",
+    links: [
+      {
+        name: "Course Website",
+        caption: "The course website provided by faculty.",
+        link: "http://cse.iitkgp.ac.in/~wbcm/cgi-bin/wbcm/common/course/home.cgi?ccode=cs21002&year=2022&sem=s",
+      },
+      // {
+      //   name: "Reference Books",
+      //   caption: "Pontu Reference Books Drive link",
+      //   link: "https://drive.google.com/drive/folders/1nBgnM5i8s9C1iVq1eNGh0lNKI6DqN2k2?usp=sharing",
+      // },
+      {
+        name: "Recorded Lectures and slides",
+        caption: "You need access for this, Contact Gopal",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM4_CSE/CS21202-SWITCHING%20CIRCUITS%20AND%20LOGIC%20DESIGN?csf=1&web=1&e=V438SX",
         contact: "https://api.whatsapp.com/send?phone=+919996635274",
       },
       {
         name: "Prev. Year Course Site",
         caption: "The prev. course website provided by faculty.",
-        link: "https://cse.iitkgp.ac.in/~palash/Courses/2021Algorithms1-Lab/algo1-lab-2021.html",
+        link: "http://cse.iitkgp.ac.in/~wbcm/cgi-bin/wbcm/common/course/home.cgi?ccode=cs21002&year=2021&sem=s",
       },
     ],
   },
   {
-    name: "Discrete Structures",
-    code: "CS21201",
+    name: "SCLD Lab",
+    code: "CS29204",
     links: [
       {
         name: "Course Website",
         caption: "The course website provided by faculty.",
-        link: "https://cse.iitkgp.ac.in/~abhij/course/theory/DS/Autumn21/",
+        link: "http://cse.iitkgp.ac.in/~wbcm/cgi-bin/wbcm/common/course/home.cgi?ccode=cs29002&year=2022&sem=s",
       },
-      {
-        name: "Reference Books",
-        caption: "Pontu Reference Books Drive link",
-        link: "https://drive.google.com/drive/folders/1RUWqkg-3mYW9GLmqST6OoJR5JfZoMYnr?usp=sharing",
-      },
+      // {
+      //   name: "Reference Books",
+      //   caption: "Pontu Reference Books Drive link",
+      //   link: "https://drive.google.com/drive/folders/1MuSyV4Iij6ZtmjrnBseV_WcmMJ0mr9K7?usp=sharing",
+      // },
       {
         name: "Recorded Lectures and slides",
         caption: "You need access for this, Contact Gopal",
-        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/CS21201-DISCRETE%20STRUCTURES?csf=1&web=1&e=mNrnAN",
+        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM4_CSE/CS29204-SWITCHING%20CIRCUITS%20LABORATORY?csf=1&web=1&e=KdjYqu",
         contact: "https://api.whatsapp.com/send?phone=+919996635274",
       },
       {
         name: "Prev. Year Course Site",
         caption: "The prev. course website provided by faculty.",
-        link: "http://cse.iitkgp.ac.in/~abhij/course/theory/DS/Autumn20/",
-      },
-    ],
-  },
-  {
-    name: "Probability and Statistics",
-    code: "MA20205",
-    links: [
-      {
-        name: "Course Website",
-        caption: "The course website provided by faculty.",
-        link: "https://wiki.metakgp.org/w/MA20104:_Probability_And_Statistics",
-      },
-      {
-        name: "Reference Books",
-        caption: "Pontu Reference Books Drive link",
-        link: "https://drive.google.com/drive/folders/1KBzWRCAYrZJoAcNUl8ghsfYpVmH_LFJz?usp=sharing",
-      },
-      {
-        name: "Recorded Lectures and slides",
-        caption: "You need access for this, Contact Gopal",
-        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/MA20205-PROBABILITY%20AND%20STATISTICS?csf=1&web=1&e=mvFRcZ",
-        contact: "https://api.whatsapp.com/send?phone=+919996635274",
-      },
-      {
-        name: "Prev. Year Course Site",
-        caption: "The prev. course website provided by faculty.",
-        link: "http://www.facweb.iitkgp.ac.in/~bibhas/ProbStat.html",
-      },
-    ],
-  },
-  {
-    name: "Basic Electronics",
-    code: "EC21201",
-    links: [
-      {
-        name: "Course Website",
-        caption: "The course website provided by faculty.",
-        link: "https://wiki.metakgp.org/w/EC21101:_Basic_Electronics",
-      },
-      {
-        name: "Reference Books",
-        caption: "Pontu Reference Books Drive link",
-        link: "https://drive.google.com/drive/folders/1nBgnM5i8s9C1iVq1eNGh0lNKI6DqN2k2?usp=sharing",
-      },
-      {
-        name: "Recorded Lectures and slides",
-        caption: "You need access for this, Contact Gopal",
-        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/EC21201-BASIC%20ELECTRONICS?csf=1&web=1&e=hPDUJf",
-        contact: "https://api.whatsapp.com/send?phone=+919996635274",
-      },
-    ],
-  },
-  {
-    name: "Signals and Systems",
-    code: "EE21201",
-    links: [
-      {
-        name: "Course Website",
-        caption: "The course website provided by faculty.",
-        link: "https://wiki.metakgp.org/w/EE21101:_Signals_And_Networks",
-      },
-      {
-        name: "Reference Books",
-        caption: "Pontu Reference Books Drive link",
-        link: "https://drive.google.com/drive/folders/1MuSyV4Iij6ZtmjrnBseV_WcmMJ0mr9K7?usp=sharing",
-      },
-      {
-        name: "Recorded Lectures and slides",
-        caption: "You need access for this, Contact Gopal",
-        link: "https://iitkgpacin-my.sharepoint.com/:f:/r/personal/garggopal2001_kgpian_iitkgp_ac_in/Documents/Desktop/IIT%20KGP/2nd%20Year/SEM3_CSE/EE21201-SIGNALS%20AND%20SYSTEMS?csf=1&web=1&e=fCSnOg",
-        contact: "https://api.whatsapp.com/send?phone=+919996635274",
-      },
-      {
-        name: "Prev. Year Course Site",
-        caption: "The prev. course website provided by faculty.",
-        link: "http://www.facweb.iitkgp.ac.in/~avishek/Signals&Networks2020.html",
+        link: "http://cse.iitkgp.ac.in/~wbcm/cgi-bin/wbcm/common/course/home.cgi?ccode=cs29002&year=2021&sem=s",
       },
     ],
   },
